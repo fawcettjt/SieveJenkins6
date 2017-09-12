@@ -38,7 +38,7 @@ public class PrimeSieve {
     	System.out.println("Please enter a number:");
     	Scanner input = new Scanner(System.in);
     	//number = input.nextInt();
-    	number = 200;
+    	number = 200
     	
     	//Use supplied number as argument for prime method.
     	checkPrimeNumbers(number);
